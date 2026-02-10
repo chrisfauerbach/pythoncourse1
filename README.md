@@ -57,6 +57,12 @@ That's it. No complicated setup, no virtual environments needed (until we get to
 | 11 | [Databases](11-databases/) | SQLite, SQLAlchemy, and async database access |
 | 12 | [Machine Learning](12-machine-learning/) | ML concepts, scikit-learn, and neural networks |
 
+### Projects
+
+| # | Section | What You'll Learn |
+|---|---------|-------------------|
+| 13 | [Mini Projects](13-projects/) | Guided projects that combine skills from multiple sections |
+
 ## Tips for Learning
 
 - **Type the code yourself** instead of copy-pasting. Muscle memory matters.

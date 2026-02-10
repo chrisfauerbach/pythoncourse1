@@ -12,6 +12,7 @@ You've got the fundamentals down — now it's time to write code like a Pythonis
 | 04 | [Context Managers](04-context-managers/) | Managing resources with `with` statements |
 | 05 | [Modules and Packages](05-modules-and-packages/) | Organizing code across files and directories |
 | 06 | [Lambda and Closures](06-lambda-and-closures/) | Anonymous functions and captured state |
+| 07 | [Command-Line Arguments](07-argparse/) | Building flexible CLI tools with argparse |
 
 ## What You'll Be Able to Do After This Section
 
@@ -20,6 +21,7 @@ You've got the fundamentals down — now it's time to write code like a Pythonis
 - Use generators to process large datasets without blowing up memory
 - Manage resources (files, connections, locks) safely
 - Structure larger projects into modules and packages
+- Build command-line tools that accept arguments, flags, and subcommands
 
 ## Prerequisites
 
